@@ -1,25 +1,25 @@
 {
-  "name": "friendfinder",
-  "version": "1.0.0",
-  "description": "homework but important",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Inopo/friendFinder.git"
-  },
-  "keywords": [
-    "fun"
-  ],
-  "author": "Ege",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Inopo/friendFinder/issues"
-  },
-  "homepage": "https://github.com/Inopo/friendFinder#readme",
-  "dependencies": {
-    "express": "^4.15.2"
-  }
+    "name": "friendfinder",
+    "version": "1.0.0",
+    "description": "homework but important",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Inopo/friendFinder.git"
+    },
+    "keywords": [
+        "fun"
+    ],
+    "author": "Ege",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Inopo/friendFinder/issues"
+    },
+    "homepage": "https://github.com/Inopo/friendFinder#readme",
+    "dependencies": {
+        "express": "^4.15.2"
+    }
 }
